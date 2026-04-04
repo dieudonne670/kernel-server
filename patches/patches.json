@@ -1,0 +1,6 @@
+{
+    "example_patch.so": {
+        "version": "1.0",
+        "description": "Initial patch for sensor override"
+    }
+}
