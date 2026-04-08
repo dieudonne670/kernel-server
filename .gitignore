@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+server/venv/
+
+# Compiled C / Linux kernel objects
+*.o
+*.ko
+*.mod
+*.mod.c
+*.order
+*.symvers
+*.so
+
+# Build tools
+*.out
+
+# Docker
+server/*.log
