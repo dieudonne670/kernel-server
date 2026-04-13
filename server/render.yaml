@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: livepatch-server
+    env: docker
+    plan: free
+    branch: main
+    rootDir: server
+    dockerfilePath: Dockerfile
+    autoDeploy: true
